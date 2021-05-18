@@ -1,0 +1,51 @@
+#container{
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+margin:auto;
+width:50%;
+position:absolute;
+padding:10px 0 5px 0;
+height:40%;
+border-bottom:3px solid red;
+background:#2E2E2E;
+box-shadow: 2px 3px 4px black;
+
+}
+p #login_error{
+	font-size:1vw;
+}
+body{
+	background-color:rgba(111,111,111,0.9);
+font-size:2vw;
+}
+#container p{
+text-align:Center;
+}
+.box{
+border-top:none;
+border-left:none;
+border-right:none;
+border-bottom:2px solid #6E6E6E;
+width:65%;
+background:#2E2E2E;
+outline: none;
+color:white;
+font-family:'Abel', sans-serif;
+font-size:100%;
+}
+#container label{
+font-family:'Abel', sans-serif;
+color:white;
+padding:0 10px 0 0;
+}
+.box[type=text]:focus{border-bottom:2px solid #FA5858;}
+#button{
+border:none;
+width:30%;
+padding:5px;
+font-family: 'Alegreya Sans', sans-serif;
+color:white;
+background:#FA5858;
+margin:0 0 0 55px;
+}
