@@ -1,5 +1,7 @@
 # E_commerce Website using PHP Aand MYSQL.
 This is a simply an E_commerce  website project coded in HTML,CSS,JavaScript,php and MySql. 
+
+
  #PROJECT DESCRIPTION
    * Online Store Project
 This E-commerce website has two type of user one of them is an admin who can manage the whole website such as adding,deleting the product,managing the product prices and product quantity etc .Admin can also see the order list and payment information .
